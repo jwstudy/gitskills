@@ -1,2 +1,2 @@
 # gitskills
-just for lear git
+just  a for lear git fun
